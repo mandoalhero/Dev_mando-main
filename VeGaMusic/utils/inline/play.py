@@ -83,7 +83,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
         InlineKeyboardButton(
-                 "ᴠᴇɢᴧ", url=SUPPORT_CHANNEL
+                 "ᗴᒪՏᗩᕼᗴᖇ", url=SUPPORT_CHANNEL
             ),
         ],
         [
@@ -102,7 +102,7 @@ def stream_markup(_, chat_id):
         ],
         [
         InlineKeyboardButton(
-                 "ᴠᴇɢᴧ", url=SUPPORT_CHANNEL
+                 "ᗴᒪՏᗩᕼᗴᖇ", url=SUPPORT_CHANNEL
             ),
         ],
         [
